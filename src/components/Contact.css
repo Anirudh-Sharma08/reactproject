@@ -1,0 +1,31 @@
+.heading{
+    display: flex;
+    justify-content: center;
+    margin-left: 29%;
+    
+    width: 40%;
+    height: 40%;
+    color: rgb(102, 1, 1);
+    border-radius: 5%;
+}
+.heading:hover{
+   color: blue;
+}
+#lg{
+    display: flex;
+   font-size: 160%;
+    justify-content: center;
+    color: black;
+}
+#lg:hover{
+    color: blue;
+}
+#bck{
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+body{
+    background-image: url("https://wallpapers.com/images/hd/simple-geometric-phone-6000-x-3375-xeybc824kc3s7kgz.jpg");
+    background-size: cover;
+}
