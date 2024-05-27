@@ -1,0 +1,75 @@
+.regentcard{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+    height: 60%;
+    border-radius:3%;
+    border-color: rgb(205, 199, 27);
+    border-style:dashed;
+    background-color: rgb(168, 104, 104);
+    padding: 7px;
+    margin: 5%;
+}
+.Cards{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+    height: 60%;
+    border-radius:3%;
+    border-color: rgb(205, 199, 27);
+    border-style:dashed;
+    background-color: rgb(89, 157, 107);
+    padding: 7px;
+    margin: 5%;
+}
+
+    .Ackn{
+        display: flex;
+        font-size: 20px;
+        font-family: cursive;
+        
+        justify-content: center;
+
+    }
+
+
+#img{
+    display: flex;
+    height: 200px;
+    width: 150px;
+}
+.head{
+    font-family:'Times New Roman', Times, serif;
+    align-items: center;
+    justify-content: center;
+    color: rgb(52, 18, 18);
+}
+.bttn{
+    font-size: 150%;
+    color: rgb(3, 0, 0);
+    font-family:'Times New Roman', Times, serif;
+    background-color: rgb(120, 94, 89);
+    border-radius: 15%;
+}
+.bttn:hover{
+    animation-name:inherit;
+   color: bisque;
+}
+.parent{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+   
+    padding: 1%;
+    
+    margin-top: 0%;
+    background-image: url"https://greentumble.com/wp-content/uploads/2015/12/Pros-and-Cons-of-Using-Agricultural-Fertilizers.jpg";
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+ 

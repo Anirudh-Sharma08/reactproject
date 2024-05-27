@@ -5,8 +5,8 @@ const Navbar = () => {
   return (
     <div>
         <div className='Navbar'>
-        
-    <p className='links'>Aries.Co.Ltd</p>
+        <img id='image' src='https://thumbs.dreamstime.com/b/basic-rgb-186809368.jpg'alt='Logo'/>
+    
 
      <Link className='links' to="home"> <p>Home</p></Link>
      <Link className='links' to="product"><p>Products</p></Link>
