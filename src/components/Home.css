@@ -27,14 +27,21 @@
     margin: 5%;
 }
 
+@keyframes example {
+    from {background-color: rgb(170, 170, 110);}
+    to {background-color: rgb(135, 102, 96);}
+  }
     .Ackn{
         display: flex;
         font-size: 20px;
         font-family: cursive;
-        
         justify-content: center;
+        animation-name: example;
+  animation-duration: 10s;
 
     }
+   
+
 
 
 #img{

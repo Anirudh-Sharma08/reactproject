@@ -11,7 +11,7 @@ const About = () => {
     
       <h2 className='head'>Anirudh Sharma</h2>
       <h4 className='head'>Sophomore of Miet Meerut</h4>
-      <h3 className='head'> Co.Founder of Aries.Co.Ltd</h3>
+     
       <h3 className='head'> Thanks for  your valuable Time!</h3>
       </div>
       </div>    
